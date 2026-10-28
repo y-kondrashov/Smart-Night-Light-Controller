@@ -1,0 +1,39 @@
+# --- PlatformIO ---
+.pio/
+.piolibdeps/
+
+# --- Arduino IDE / Arduino CLI ---
+build/
+.build/
+*.hex
+*.bin
+
+# --- IDE та редактори (VS Code, CLion тощо) ---
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+.idea/
+*.suo
+*.ncb
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# --- Операційна система ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# --- Локальні налаштування та секрети ---
+credentials.h
+secrets.h
+*.local
