@@ -1,6 +1,9 @@
 # Smart Night Light Controller
 
 Простий сутінковий перемикач на ESP32-S3: фотодатчик (LDR) вимірює рівень освітлення, а мікроконтролер керує реле з гістерезисом.
+<img width="1137" height="766" alt="image" src="https://github.com/user-attachments/assets/a842a323-a515-4f5b-ae53-a01d352f0935" />
+<img width="1159" height="760" alt="image" src="https://github.com/user-attachments/assets/cfdb6790-2cf0-46df-b8e8-bd09eb86e9f9" />
+<img width="1178" height="709" alt="image" src="https://github.com/user-attachments/assets/6177d65d-85c6-46dc-836e-2b40f15be72d" />
 
 ## Плата та інструменти
 
